@@ -1,3 +1,3 @@
 <?php
-echo "Et eller andet tekst";
+echo "hej";
 ?>
