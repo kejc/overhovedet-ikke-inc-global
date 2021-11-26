@@ -1,4 +1,4 @@
 <?php
-echo "hej";
+echo "farvel";
 Dette php er faktisk ikke php;
 ?>
