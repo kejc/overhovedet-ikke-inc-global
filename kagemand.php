@@ -1,4 +1,3 @@
 <?php
-echo "farvel";
-Dette php er faktisk ikke php;
+echo "Et eller andet tekst";
 ?>
